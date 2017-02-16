@@ -1,0 +1,110 @@
+/*CONTENT **********************************/
+content
+{
+  display: inline-block;
+  margin-left: 300px;
+  margin-right: 300px;
+  border: 2px #b5b5b5 outset;
+  border-radius: 25px;
+  box-shadow: 5px 5px 10px grey;
+}
+
+#text_size
+{
+  margin-left: -175px;
+  font-size: 25px;
+}
+
+.img_men
+{
+  display: block;
+  padding-left: 700px;
+  margin-top: 100
+}
+
+.img_women
+{
+  display: block;
+  padding-left: 470px;
+  margin-top: -132
+}
+/*END CONTENT ******************************/
+
+/*BANNIERE BLEUE ***************************/
+.banniere
+{
+  background-color: #12449b ;
+  width: 100%;
+}
+
+.camsoul
+{
+ margin-left: 25%;
+ margin-right: 25%;
+ display:block;
+}
+
+.bg-all
+{
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.bg_img
+{
+ background-image: url("../images/bg-bloc-title.png");
+ background-repeat: no-repeat;
+ text-align: left;
+ width:23%;
+ color:white;
+ display: inline-block;
+ padding-left: 3em;
+ margin-left: 10px;
+}
+
+.vha
+{
+  display: inline-block;
+  color: white;
+}
+
+.vha li
+{
+  list-style: none;
+  clear: both;
+  min-height: 35px;
+}
+
+.vehicl
+{
+  border: 1px solid #e65c01;
+  border-radius: 10px;
+  width:27%;
+  margin: 0px 5px 2px 5px;
+  display:inline-block;
+}
+
+.horaire
+{
+ border: 1px solid #e65c01;
+ border-radius: 10px;
+ width:27%;
+ margin: 0px 5px 2px 5px;
+ display: inline-block;
+}
+
+.adress
+{
+ border: 1px solid #e65c01 ;
+ border-radius: 10px;
+ width:27%;
+ margin: 0px 5px 0px 5px;
+ display: inline-block;
+}
+
+.adress img
+{
+ width:100%;
+ border-radius: 5px;
+}
+/*END BANNIERE BLEUE *********************/
